@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Okos ébresztő</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="snooze">Szundi engedélyezése</string>
+    <string name="snooze_enable">Szundi</string>
+    <string name="hardcore">Hardcore mód</string>
+    <string name="age">Életkor</string>
+    <string name="send">Mentés</string>
+    <string name="off">Kikapcsolás</string>
+    <string name="deficit">Visszamaradás (óra):</string>
+    <string name="on">Ébresztés beállítása</string>
+    <string name="information">Segítség</string>
+    <string name="ok">Oké</string>
+    <string name="add_text">Új ébresztés hozzáadása. Miután kiválasztottuk a megfelelő időpontot szimplán hozzáadhatjuk az ébresztést.</string>
+    <string name="refresh_text">Az ébresztés frissítése. Ezzel frissítve lesznek az információk például a hátralévő idő.</string>
+    <string name="save_text">Ha jól adtuk hozzá az ébresztést és megyünk aludni, ezzel a gombal véglegesítjük az alvást. Tehát elmenti az ébresztést és így kiszámolja a következő ébresztésnél mennyi kell majd aludnunk.</string>
+    <string name="delete_text">Alvási adatok törlése. Ezzel a gombal a beállításoknál ki tudjuk törölni az eddigi alvási statisztikákat.</string>
+    <string name="generalinfo_text">Az alkalmazás célja, hogy segítse a napi egészséges alvásmennyiség betartását. Az alkalmazás életkor alapján és korábbi alvási adatok alapján próbálja a legmegfelelőbb ébredési időpontot beállíatni</string>
+    <string name="hardcore_text">Hardcore mód: Nincs lehetőség ébresztés kikapcsolására vagy szundira.</string>
+    <string name="snooze_time">Szundi időtartam (perc)</string>
+    <string name="alarm_hint">Írd be ide amit az ébresztés szövegéhez szeretnél.</string>
+    <string name="empty">Nincs közelgő ébresztésed!</string>
+    <string name="ringtone">Csengőhang</string>
+
+</resources>
